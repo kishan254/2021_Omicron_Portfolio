@@ -16,7 +16,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 20px 5%;
 }
 
 p {
@@ -210,8 +210,8 @@ main section header:hover {
 .contact-me button {
     font-size: 22px;
     display: flex;;
-    margin-left: 50%;
-    margin-right: 50%;
+    margin-left: 47%;
+    /* margin-right: 40%; */
     margin-top: 2%;
     margin-bottom: 5%;
 
@@ -292,7 +292,7 @@ footer {
     .contact-me button {
             font-size: 22px;
             display: flex;
-            margin: 45%;
+            margin: 47%;
             margin-top: 5%;
             margin-bottom: 5%;
         }
