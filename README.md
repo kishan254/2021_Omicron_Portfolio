@@ -1,14 +1,12 @@
 # 2021_Omicron_Portfolio
 
-# About Developer
+THIS PROJECT IS UTILISING THE SKILLS LEARNT IN MY CLASS TO SHOWCASE - "FLEXBOX, MEDIA QUERIES AND CSS VARIABLES"
 
-Hi my name is Kishan Gosrani
+## Tabel of Contents
 
-I am a coding student from Perth
-
-I am currently working on a class assignment which i have name 2021_Omicron_Portfolio
-
-This portfolio includes all the work I have done on a beginner level and slowly introduced some javascript projects
+* [Links](#Links)
+* [Screeshots](#Screenshots)
+* [Questions](#Questions)
 
 # Links
 
@@ -21,6 +19,15 @@ This is the link to my Githiub Repo https://github.com/kishan254/2021_Omicron_Po
 ![one](Assets/about_me_screenshot_one.png)
 ![two](Assets/about_me_screenshot_two.png)
 ![three](Assets/about_me_screenshot_three.png)
+![four](Assets/resume.png)
 
 
-THIS PROJECT IS UTILISING THE SKILLS LEARNT IN MY CLASS TO SHOWCASE - "FLEXBOX, MEDIA QUERIES AND CSS VARIABLES"
+## Questions
+
+Please click the links below
+
+[Github] (https://github.com/kishan254)
+
+Write me on;
+
+[Email] (kishan.gosrani@hotmail.com)
